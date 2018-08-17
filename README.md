@@ -1,3 +1,19 @@
+Step 1:
+    Set up environment(Cloned form git https://github.com/StephenGrider/ReduxSimpleStarter.git)
+    Create a new component, and then put it on the page(In the DOM)
+    Get youtube API key
+
+Setp 2:
+    Writed search_bar component
+    Handled input event
+
+Step 3:
+
+
+
+
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
