@@ -5,9 +5,18 @@ Step 1:
 
 Setp 2:
     Writed search_bar component
+    State
+    functional component
+    class base component
     Handled input event
 
 Step 3:
+    writed Video_list / video_list_item / video_detail component
+    props
+
+Step 4:
+    Styling
+    Searching for videos
 
 
 
